@@ -1,0 +1,8 @@
+.git
+node_modules
+dist
+.openai
+test-results
+playwright-report
+*.zip
+*.tar.gz
